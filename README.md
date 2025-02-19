@@ -15,7 +15,7 @@ I'm a **Computer Science & Mathematics** student at **Penn State University**, g
 
 ## 📌 Featured Projects
 
-### [Sub0space: Real Estate Web App](https://github.com/mantavya0807/sub0space)
+### [Sub0space: Real Estate Web App](https://github.com/mantavya0807/homeharmony-platform)
 A full-stack real estate platform allowing users to list, buy, and rent properties. 
 - **Tech Stack:** React, Node.js, PostgreSQL, Stripe, Google Maps API
 - **Key Features:** Role-based authentication, secure payment processing, interactive map-based listings
@@ -25,7 +25,7 @@ Optimizes PSU students’ campus dining expenses.
 - **Tech Stack:** React, Firebase, TypeScript, Puppeteer, Express
 - **Key Features:** Automated transaction categorization, real-time budget tracking, Firebase authentication
 
-### [AI-Powered Code Optimizer](https://github.com/mantavya0807/code-optimizer)
+### [AI-Powered Code Optimizer](https://github.com/mantavya0807/m8)
 AI-driven tool for code suggestions and performance optimization.
 - **Tech Stack:** Python, TensorFlow, PyTorch, SciPy, Flask
 - **Key Features:** Offline usability, IDE integration, genetic algorithms for optimization
