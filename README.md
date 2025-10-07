@@ -102,13 +102,6 @@ learned that "cleaning data" means "discovering 47 different date formats"
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-## github stats
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mantavya0807&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ## random facts
 
@@ -130,4 +123,5 @@ currently looking for full-time SWE roles starting December 2025 (H-1B sponsorsh
 ---
 
 *"most bugs are just features you haven't documented yet"* - me, at 3am, convincing myself the crash is intentional
+
 
