@@ -106,11 +106,7 @@ learned that "cleaning data" means "discovering 47 different date formats"
 
 <div align="center">
   
-![mantavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantavya0807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mantavya0807&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantavya0807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mantavya0807&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -134,3 +130,4 @@ currently looking for full-time SWE roles starting December 2025 (H-1B sponsorsh
 ---
 
 *"most bugs are just features you haven't documented yet"* - me, at 3am, convincing myself the crash is intentional
+
