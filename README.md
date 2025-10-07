@@ -1,198 +1,136 @@
-# Mantavya Mahajan
+# hey, I'm Mantavya 👋
 
-> Building scalable solutions that bridge the gap between innovation and real-world impact
+CS + Math @ Penn State, graduating December 2025. I build things that solve real problems, usually involving too much coffee and late night debugging sessions.
 
----
+Currently breaking (and fixing) LLMs at **Scale AI** while trying to convince my meal plan optimizer not to suggest I eat chicken tenders for the fifth day in a row.
 
-## 👋 About Me
+## what I'm actually working on
 
-I'm a Computer Science and Mathematics student at Pennsylvania State University, graduating in December 2025. Currently working as a Gen AI Technical Advisor at Scale AI, I specialize in full-stack development, machine learning, and systems design. With a minor in Business Administration, I bring both technical expertise and business acumen to every project I tackle.
+**reverse engineering Penn State's dining system** because I was tired of losing meal plan money  
+├─ [Mealer](https://github.com/mantavya0807/Mealer) - scraped 5000+ transactions from 150+ students  
+├─ built MFA-aware Puppeteer bots that don't get blocked  
+└─ turns out idempotent Celery tasks are harder than I thought (97% sync rate after many failures)
 
-**📍 Current Status:** Seeking full-time software engineering opportunities starting December 2025
+**replicating economic research papers** for fun (and because someone said I couldn't)  
+├─ [EPU-Index](https://github.com/mantavya0807/EPU-Index) - ingesting 50,000+ news headlines via ProQuest API  
+├─ TF-IDF + spaCy pipeline hit 0.72 correlation with the real EPU index  
+└─ learning that backfilling at 1500/min without rate limits requires... creativity
 
----
+**teaching a MIPS CPU to not explode** (extended my architecture project way past the deadline)  
+├─ implemented forwarding, hazard detection, stall control  
+└─ added jal and jr support because why not
 
-## 🚀 What I'm Up To
-@ Scale AI
-└── Gen AI Technical Advisor
-├── Evaluating and improving large language models
-├── Contributing to AI data quality assurance
-└── Supporting model fine-tuning initiatives
+##3x hackathon winner 🏆
 
-Previously co-founded and led development at M8 Social Platform, scaling to 5000+ users while managing a team of 4 developers.
+**won mHacks** with [Decluttered.ai](https://github.com/KanikaGupta16/Decluttered.ai) - AI-powered marketplace automation  
+**won BitCamp** with [FinGuard](https://github.com/mantavya0807/FinGuard) - phishing detection browser extension  
+**won HackPSU** with [FinGuard](https://github.com/mantavya0807/MyMuscle) - your bread and butter vision based pose detection Model
 
----
 
-## 💻 Tech Stack
+## things I've actually shipped
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**[M8](https://github.com/mantavya0807/M8)** - event platform serving 5000+ users  
+hit 1440 req/sec at p95 latency under 180ms, learned more about connection pooling than any tutorial could teach
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+**[Decluttered.ai](https://github.com/KanikaGupta16/Decluttered.ai)** 🏆 - won mHacks 2024  
+multi-agent workflow crawling and classifying products, reduced content creation from 30min to 12min per item
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**[homeharmony-platform](https://github.com/mantavya0807/homeharmony-platform)** ⭐ - real estate platform with Stripe  
+learned that payment flows have more edge cases than a dodecahedron, live at [sub-space.me](https://sub-space.me/)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**[Mealer](https://github.com/mantavya0807/Mealer)** ⭐⭐ - 150+ Penn State students trust this daily  
+hardest part wasn't the code, it was convincing people to give me their dining credentials
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**[FinGuard](https://github.com/mantavya0807/FinGuard)** 🏆 ⭐ - won BitCamp, stops phishing attacks  
+built because my roommate almost lost $500 to a fake Venmo email
 
----
+**[BlockHouse](https://github.com/mantavya0807/BlockHouse)** - financial data analysis platform  
+TypeScript + charting libraries, processing market data in real-time
 
-## 🔥 Featured Projects
+**[SecureWater](https://github.com/mantavya0807/SecureWater)** - IoT water quality monitoring  
+TypeScript stack tracking contamination alerts
 
-### 🌐 M8 Social Platform
-> Full-scale social networking platform with real-time features
+**[eduAI](https://github.com/mantavya0807/eduAI)** - AI scheduling assistant for students  
+built for Nittany AI Showcase, parses messy syllabi into actual schedules
 
-**Tech Stack:** React • Node.js • MongoDB • AWS • Socket.IO • Redux  
-**Impact:** Serving 5000+ users with 40% reduced load times  
-**Links:** [🔗 GitHub](https://github.com/mantavya0807) | [🌍 Live Demo](https://www.m8-us.com/)
+**[BERT4Rec](https://github.com/mantavya0807/BERT4Rec)** - product recommendation system  
+SVD to compress 128D embeddings to 10D while keeping 92% of the data, hit 64% recommendation accuracy
 
----
+**[CourseCrafter](https://github.com/mantavya0807/CourseCrafter)** - smart course schedule optimizer  
+helps students build schedules that don't result in 8am classes three days in a row
 
-### 🏠 HomeHarmony (formerly Sub-Space)
-> Comprehensive real estate platform revolutionizing property transactions
+**[fitness-pose-coach](https://github.com/mantavya0807/fitness-pose-coach)** - AI form tracking  
+turns out detecting if someone's squat form sucks is harder than I thought
 
-**Tech Stack:** React • TypeScript • Supabase • Tailwind CSS • Google Maps • Stripe  
-**Key Feature:** Seamless buyer-seller interactions with integrated payments  
-**Links:** [🔗 GitHub](https://github.com/mantavya0807) | [🌍 Live Demo](https://sub-space.me/)
+## side quests
 
----
+**tutoring calculus and linear algebra** at Penn State Learning since Feb 2025  
+turns out explaining eigenvectors to freshmen at 8am is harder than implementing them
 
-### 💳 FinGuard
-> Smart browser extension for financial safety and optimization
+**leading Penn State Esports web dev** (yes, we have an esports team)  
+coordinating 4 developers who all want to use different React patterns
 
-**Tech Stack:** React • Node.js • MongoDB • TailwindCSS • Gemini API  
-**Innovation:** AI-powered credit card recommendations and phishing protection  
-**Links:** [🔗 GitHub](https://github.com/mantavya0807)
+**research with Dr. Wu on assembly parser-printers** (NSF REU Summer 2025)  
+Python + OCaml combo that made me appreciate type systems
 
----
+**[Wenlan-Research](https://github.com/mantavya0807/Wenlan-Research)** - built product rec systems for Prof Yu and Rangaswamy  
+that BERT4Rec project above, created product embeddings using fuzzy matching
 
-### 🍽️ Meal Plan Optimizer
-> Helping Penn State students optimize their dining dollars
+**[MASBio research](https://github.com/mantavya0807/MasBIO)** with Dr. Jacobson cleaning bioenergy datasets  
+learned that "cleaning data" means "discovering 47 different date formats"
 
-**Tech Stack:** React • Firebase • TypeScript • Node.js • Puppeteer  
-**Impact:** Automated spending analysis with personalized recommendations  
-**Links:** [🔗 GitHub](https://github.com/mantavya0807/Mealer)
+## tech I actually use
 
----
+**daily**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💪 MyMuscle
-> Your AI-powered fitness coach in your pocket
+**when I need to**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Tech Stack:** React • TensorFlow • Supabase • Tailwind CSS • Gemini  
-**Innovation:** Real-time form tracking and personalized workout plans  
-**Links:** [🔗 GitHub](https://github.com/mantavya0807)
+**experimenting with**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
----
-
-### 📚 Additional Projects
-
-**JBOD System** • **SecureWater** • **AgriScience** • **StockFetcher** • **Course Scheduler**  
-[➡️ View all projects on my portfolio](https://mantavya-mahajan-portfolio.vercel.app/)
-
----
-
-## 🔬 Research Experience
-
-### Penn State AI Innovation Lab
-**Product Recommendation System**
-- Developed novel recommendation system using BERT4Rec and sentence transformers
-- Achieved 78% accuracy in predicting product-market fit
-- Published findings in university research journal
-
-### Penn State Data Science Lab
-**Environmental Policy Research**
-- Created Environmental Policy Uncertainty Index using NLP and data mining
-- Built automated web scrapers for governmental policy data
-- Validated index accuracy with 92% confidence level
-
-### Penn State Healthcare Innovation Lab
-**Medical LLM Optimization**
-- Achieved 80% model size reduction while maintaining 95% transcription accuracy
-- Developed privacy-focused language models for medical devices
-- Implemented efficient data compression techniques
-
----
-
-## 📈 Professional Timeline
-
-| Year | Position | Organization |
-|------|----------|--------------|
-| 2025 (May - Aug) | Gen AI Technical Advisor | Scale AI |
-| 2024 - 2025 | Lead Software Developer & Cofounder | M8 Social Platform |
-| 2024 (Summer) | Full Stack Developer Intern | Alchem International |
-| 2023 - 2024 | Learning Assistant Program Lead | Penn State University |
-
----
-
-## 🏆 Achievements & Recognition
-
-### Academic Excellence
-- **Dean's List:** 5 out of 7 semesters
-- **GPA:** 3.6/4.0
-
-### Leadership & Impact
-- Led peer tutoring program supporting **200+ STEM students**
-- Managed development team of **4 engineers** at M8
-- Multiple **hackathon winner** with award-winning solutions
-
-### Research Contributions
-- Published research on AI-powered product recommendations
-- Developed novel Environmental Policy Uncertainty Index
-- Contributed to medical AI optimization research
-
----
-
-## 📫 Let's Connect
-
-I'm always excited to discuss new opportunities, collaborate on interesting projects, or just chat about technology and innovation.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mantavya-mahajan-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mantavyamahajan08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantavya-mahajan-42972721b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mantavya0807)
-
-**📍 Location:** State College, Pennsylvania
-
----
-
-### 📊 Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| Total Commits | 500+ |
-| Projects Built | 15+ |
-| Users Impacted | 5000+ |
-| Research Papers | 3 |
-
----
+## github stats
 
 <div align="center">
   
-*"I believe in writing code that not only works but tells a story - a story of solving real problems for real people."*
+![mantavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantavya0807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mantavya0807&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantavya0807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+## random facts
+
+- wrote a Verilog CPU and then kept adding features nobody asked for
+- competed in job simulations for companies I'll probably apply to
+- once optimized PostgreSQL queries at 2am and saw an 18% improvement (couldn't sleep after that)
+- maintain a chess engine that uses minimax (it's decent but not great)
+- unironically enjoy writing documentation
+
+## let's talk
+
+if you're working on something interesting, need help debugging something weird, or just want to argue about whether tabs or spaces are better (it's spaces), hit me up
+
+**📧** mantavyamahajan08@gmail.com  
+**🔗** [portfolio](https://mantavya-mahajan-portfolio.vercel.app) • [linkedin](https://linkedin.com/in/mantavya-mahajan)
+
+currently looking for full-time SWE roles starting December 2025 (H-1B sponsorship needed, but I promise I'm worth the paperwork)
+
+---
+
+*"most bugs are just features you haven't documented yet"* - me, at 3am, convincing myself the crash is intentional
